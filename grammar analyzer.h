@@ -1,0 +1,29 @@
+#include<stdio.h>
+
+void Program();
+void SmallProgram();
+void StatementTable();
+void _StatementTable();
+void Statement();
+void VariableStatement();
+bool Variable();
+bool Identifier();
+void FunctionStatement();
+bool Parameter();
+void FunctionBody();
+void ExecutionTable();
+void _ExecutionTable();
+void Execution();
+void Read();
+void Write();
+void Assignment();
+void ArithmeticExpression();
+void _ArithmeticExpression();
+void Item();
+void _Item();
+void Factor();
+void Constant();
+void FunctionUse();
+void Condition();
+void ConditionExpression();
+void RelationOperator();
